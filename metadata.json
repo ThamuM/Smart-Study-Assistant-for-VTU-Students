@@ -1,0 +1,7 @@
+{
+  "name": "VTU Smart Study Assistant",
+  "description": "An AI-powered academic companion specifically designed for VTU engineering students to get exam-oriented answers, syllabus explanations, and short notes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
